@@ -29,4 +29,7 @@ Pretzl are tasty, but so salty?
 I think that salt is actually made of pretzl.
 Further investigation needed...
 
+I didn't try the pretzl but i would be try it.
+Is that is sweet or not?
+If is that salty and sweet then i would be try it.
 

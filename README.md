@@ -8,3 +8,7 @@ I hope my colleagues of @arai will like it!
 I am tall but not so tall.
 I am big but not so big.
 I am smart but, but no but.
+
+I am small but not so small
+I am pig but not so pig
+I am hard but pushing my luck

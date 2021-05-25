@@ -1,13 +1,13 @@
-Hey, what a nice readme,
-It's rainy outside,
-but sunny inside.
-=======
 # Exquisite-corpse-GracielaLopezRosson
 **Exquisite corpse assignment**
 
 Next week I will give a *tech talk*, which will be about Prezi.
 The title is **Cool presentations with Prezi**.
 I hope my colleagues of @arai will like it!
+
+Hey, what a nice readme,
+It's rainy outside,
+but sunny inside.
 
 I'm really excited for you Graciela.
 It sounds like a very interresting topics.
@@ -16,6 +16,10 @@ I can't wait to hear about it.
 I am tall but not so tall.
 I am big but not so big.
 I am smart but, but no but.
+
+I am small but not so small
+I am pig but not so pig
+I am hard but pushing my luck
 
 I like Pretzl cookies. But I like cookies better. 
 Mjam mjam. 
@@ -37,8 +41,6 @@ It's salty not sweet but the dough is soft and hard at the same time.
 It's very popular in Budapest, but other things are popular as well.
 Take a bite and tell me what you experience.
 
-=======
 -----this is MinhHien additional pieces
 happy to collaborate to you and put something here
-can you see my txt...” >> readme.md
-
+can you see my txt...

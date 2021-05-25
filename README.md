@@ -29,9 +29,18 @@ Pretzl are tasty, but so salty?
 I think that salt is actually made of pretzl.
 Further investigation needed...
 
+I didn't try the pretzl but i would be try it.
+Is that is sweet or not?
+If is that salty and sweet then i would be try it.
 
+<<<<<<< HEAD
 -----this is MinhHien additional pieces
 happy to collaborate to you and put something here
 can you see my txt...” >> readme.md
 
 
+=======
+It's salty not sweet but the dough is soft and hard at the same time.
+It's very popular in Budapest, but other things are popular as well.
+Take a bite and tell me what you experience.
+>>>>>>> development

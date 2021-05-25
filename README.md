@@ -1,3 +1,8 @@
+
+Hey, what a nice readme,
+It's rainy outside,
+but sunny inside.
+=======
 # Exquisite-corpse-GracielaLopezRosson
 **Exquisite corpse assignment**
 
@@ -19,4 +24,9 @@ Mjam mjam.
 Countdown 2 hours for that amazing presentation
 about Prezi!!! I literally have no idea whay Prezi is 
 but I can't to find out all about it...
+
+Pretzl are tasty, but so salty?
+I think that salt is actually made of pretzl.
+Further investigation needed...
+
 

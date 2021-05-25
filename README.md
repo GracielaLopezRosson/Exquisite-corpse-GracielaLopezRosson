@@ -15,3 +15,8 @@ I am smart but, but no but.
 
 I like Pretzl cookies. But I like cookies better. 
 Mjam mjam. 
+
+Countdown 2 hours for that amazing presentation
+about Prezi!!! I literally have no idea whay Prezi is 
+but I can't to find out all about it...
+

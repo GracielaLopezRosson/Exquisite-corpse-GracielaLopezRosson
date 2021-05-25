@@ -43,9 +43,3 @@ can you see my txt...” >> readme.md
 It's salty not sweet but the dough is soft and hard at the same time.
 It's very popular in Budapest, but other things are popular as well.
 Take a bite and tell me what you experience.
-
-
-It's salty not sweet but the dough is soft and hard at the same time.
-It's very popular in Budapest, but other things are popular as well.
-Take a bite and tell me what you experience.
-
